@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+
+    <item
+        android:id="@+id/itmPartidos"
+        android:title="@string/partidos" />
+
+    <item
+        android:id="@+id/itmResultados"
+        android:title="@string/resultados" />
+
+    <item
+        android:id="@+id/itmTabla"
+        android:title="@string/tabla" />
+
+    <item
+        android:id="@+id/itmCamisa"
+        android:title="@string/camisas" />
+
+
+</menu>
